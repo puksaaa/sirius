@@ -1,4 +1,3 @@
-```
 import csv
 import collections
 
@@ -62,4 +61,3 @@ def main():
         print(f'Посещали: {i} раз {round(count_visits.count(i) / len(count_visits) * 100, 3)}% пациентов.')
 
 main()
-```
